@@ -8,5 +8,5 @@
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 		<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	</div>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890)](https://solved.ac/cksdud7890/)
+	<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890" />
 </div>
