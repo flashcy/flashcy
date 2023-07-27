@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CY_STUDIO&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#78A9ED&height=200&section=header&text=CY&nbspSTUDIO&fontSize=75" />
+
+Stack
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
