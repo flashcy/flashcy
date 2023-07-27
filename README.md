@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CY&nbsp;STUDIO&fontSize=75" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CY&fontSize=50" />
 	<div>
 		<h3>Tech Stack</h3>
 		<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
