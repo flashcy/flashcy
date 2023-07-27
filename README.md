@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#78A9ED&height=200&section=header&text=CY&nbspSTUDIO&fontSize=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#78A9ED&height=200&section=header&text=CY&nbsp;STUDIO&fontSize=75" />
 
-Stack
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+</div>
