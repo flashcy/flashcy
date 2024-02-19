@@ -13,4 +13,9 @@
 		<h3>Solved.ac</h3>
 		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890" />
 	</div>
+	<br/>
+	<div>
+		<h3>Code Tree</h3>
+		[![코드트리|실력진단-cksdud7890](https://banner.codetree.ai/v1/banner/cksdud7890)](https://www.codetree.ai/profiles/cksdud7890)
+	</div>
 </div>
