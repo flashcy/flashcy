@@ -1,9 +1,10 @@
 
 <div align="center">
 	<div>
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=#78A9ED&height=200&section=header&text=CY&fontSize=60" />
+		<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CY%20Studio" />
 		<h1>Hi, there!👋</h1>
 	</div>
+	<br/>
 	<div>
 		<h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
