@@ -5,13 +5,17 @@
 		<img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
 		<img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
 	</div>
+	<div>
+		<h3> 📞 Contact Me 📞 </h3>
+		<a href="mailto:cksdud7890@naver.com">
+		    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=minutemailer&logoColor=white">
+		</a>
+	</div>
 </div>
-### 📞 Contact Me 📞
-<a href="mailto:cksdud7890@naver.com">
-    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=minutemailer&logoColor=white">
-</a>
+
 
 ---
+
 
 ### 🏆 Awards 🏆
 - 2024
@@ -28,7 +32,6 @@
    		<img src="https://github-readme-stats.vercel.app/api?username=flashcy"/>
 		<br/>
    		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890"/>
-		<br/>
    		<img src="https://banner.codetree.ai/v1/banner/cksdud7890"/>
    	</div>
 </div>
