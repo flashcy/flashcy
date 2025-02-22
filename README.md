@@ -8,12 +8,8 @@
 	</div>
 	<br/>
 	<div>
-		<h3>Solved.ac</h3>
+		[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
 		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890" />
-	</div>
-	<br/>
-	<div>
-		<h3>Code Tree</h3>
 		<img src="https://banner.codetree.ai/v1/banner/cksdud7890" />
 	</div>
 </div>
