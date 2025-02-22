@@ -9,6 +9,21 @@
 		<img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
 	</div>
 	<div>
+		<h3>📚 Experiences 📚</h3>
+		<p align="left">
+			- Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
+			- Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
+			- Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
+		</p>
+	</div>
+	<div>
+		<h3>🏆 Awards 🏆</h3>
+		<h4>2024</h4>
+		<p>
+			- EKC Poster Awards
+	 	</p>
+	</div>
+	<div>
 		<h3> 📞 Contact Me 📞 </h3>
 		<a href="mailto:cksdud7890@naver.com">
 		    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=minutemailer&logoColor=white">
@@ -16,21 +31,6 @@
 	</div>
 </div>
 
----
-
-<div align="center"> 
-	<h3>📚 Experiences 📚</h3>
-	<p align="left">
-		- Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
-		- Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
-		- Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
-	</p>
-	<h3>🏆 Awards 🏆</h3>
-	<h4>2024</h4>
-	<p>
-		- EKC Poster Awards
- 	</p>
-</div>
 ---
 
 <div align="center">
