@@ -1,5 +1,8 @@
 <div align="center">
 	<div>
+		<h1>Hi, there!</h1>
+	</div>
+	<div>
 		<h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
 		<img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
@@ -16,16 +19,20 @@
 
 ---
 
-
-### 🏆 Awards 🏆
-- 2024
-	- EKC Poster Awards
+<br/>
 
 ### 📚 Experiences 📚
 - Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
 - Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
 - Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 
+<br/>
+
+### 🏆 Awards 🏆
+- 2024
+	- EKC Poster Awards
+
+<br/>
 
 <div align="center">
   	<div>
