@@ -1,6 +1,8 @@
+
 <div align="center">
 	<div>
-		<h1>Hi, there!</h1>
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CY STUDIO&fontSize=90" />
+		<h1>Hi, there!👋</h1>
 	</div>
 	<div>
 		<h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
@@ -10,10 +12,10 @@
 	</div>
 	<div>
 		<h3>📚 Experiences 📚</h3>
-		<p align="left">
-			- Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025<br/>
-			- Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025<br/>
-			- Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
+		<p>
+			Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025<br/>
+			Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025<br/>
+			Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 		</p>
 	</div>
 	<div>
