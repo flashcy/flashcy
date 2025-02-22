@@ -2,8 +2,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CY&fontSize=50" />
 	<div>
 		<h3>Tech Stack</h3>
-		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
-		<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
+		<img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
 		<img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
 	</div>
 	<br/>
