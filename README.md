@@ -1,12 +1,11 @@
 
 <div align="center">
 	<div>
-		<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CY%20Studio" />
+		<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=CY%20Studio&textBg=false&animation=fadeIn&fontSize=28&fontAlignY=36&fontAlign=87&reversal=false&desc=Welcome!&descAlignY=50&descAlign=90&descSize=18" />
 	</div>
 	<div>
 		<h6>Hi, there!👋</h6>
 	</div>
-	<hr/>
 	<div>
 		<h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
