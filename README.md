@@ -6,11 +6,8 @@
 		<img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
 		<img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
 	</div>
-	<br/>
-	<div>
-		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890" />
-		<img src="https://banner.codetree.ai/v1/banner/cksdud7890" />
-	</div>
 </div>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
+[![백준](https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890)]
+[![CodeTree](https://banner.codetree.ai/v1/banner/cksdud7890)]
