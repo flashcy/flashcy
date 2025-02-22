@@ -8,8 +8,9 @@
 	</div>
 	<br/>
 	<div>
-		[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
 		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890" />
 		<img src="https://banner.codetree.ai/v1/banner/cksdud7890" />
 	</div>
 </div>
+
+		[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
