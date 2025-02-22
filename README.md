@@ -2,7 +2,9 @@
 <div align="center">
 	<div>
 		<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CY%20Studio" />
-		<strong>Hi, there!👋</strong>
+	</div>
+	<div>
+		<h6>Hi, there!👋</h6>
 	</div>
 	<hr/>
 	<div>
