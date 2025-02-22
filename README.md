@@ -20,14 +20,14 @@
 
 <div align="center"> 
 	<h3>📚 Experiences 📚</h3>
- </div>
+</div>
 - Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
 - Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
 - Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 
 <div align="center"> 
 	<h3>🏆 Awards 🏆</h3>
- </div>
+</div>
 - **2024**
 	- EKC Poster Awards
 
