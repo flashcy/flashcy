@@ -17,11 +17,11 @@
 </div>
 
 
+<br/>
 ---
-
 <br/>
 
-<div> 
+<div align="center"> 
 	<h3>📚 Experiences 📚</h3>
  </div>
 - Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
@@ -30,14 +30,15 @@
 
 <br/>
 
-<div> 
+<div align="center"> 
 	<h3>🏆 Awards 🏆</h3>
  </div>
-- 2024
+- **2024**
 	- EKC Poster Awards
 
 <br/>
-
+---
+<br/>
 <div align="center">
   	<div>
    		<img src="https://github-readme-stats.vercel.app/api?username=flashcy"/>
