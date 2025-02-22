@@ -16,10 +16,7 @@
 	</div>
 </div>
 
-
-<br/>
 ---
-<br/>
 
 <div align="center"> 
 	<h3>📚 Experiences 📚</h3>
@@ -28,17 +25,14 @@
 - Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
 - Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 
-<br/>
-
 <div align="center"> 
 	<h3>🏆 Awards 🏆</h3>
  </div>
 - **2024**
 	- EKC Poster Awards
 
-<br/>
 ---
-<br/>
+
 <div align="center">
   	<div>
    		<img src="https://github-readme-stats.vercel.app/api?username=flashcy"/>
