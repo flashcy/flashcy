@@ -11,8 +11,8 @@
 	<div>
 		<h3>📚 Experiences 📚</h3>
 		<p align="left">
-			- Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025
-			- Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025
+			- Computer Science & Engineering Bachelor of Science, Inha Univ., March 2019 - February 2025<br/>
+			- Research Intership, MediaAI Lab., Inha Univ., March 2024 - February 2025<br/>
 			- Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 		</p>
 	</div>
