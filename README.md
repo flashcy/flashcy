@@ -13,4 +13,4 @@
 	</div>
 </div>
 
-		[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=flashcy)](https://github.com/flashcy/github-readme-stats)
