@@ -2,15 +2,16 @@
 <div align="center">
 	<div>
 		<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=CY%20Studio" />
-		<h1>Hi, there!👋</h1>
+		<strong>Hi, there!👋</strong>
 	</div>
-	<br/>
+	<hr/>
 	<div>
 		<h3>🧑🏻‍💻 Tech Stack 🧑🏻‍💻</h3>
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white" />
 		<img src="https://img.shields.io/badge/React-51CAEB?style=flat&logo=React&logoColor=white" />
 		<img src="https://img.shields.io/badge/Unity-666666?style=flat&logo=Unity&logoColor=white" />
 	</div>
+	<br/>
 	<div>
 		<h3>📚 Experiences 📚</h3>
 		<p>
@@ -19,6 +20,7 @@
 			Research Assistant, MediaAI Lab., Inha Univ., March 2025 - Present 
 		</p>
 	</div>
+	<br/>
 	<div>
 		<h3>🏆 Awards 🏆</h3>
 		<h4>2024</h4>
@@ -26,6 +28,7 @@
 			- EKC Poster Awards
 	 	</p>
 	</div>
+	<br/>
 	<div>
 		<h3> 📞 Contact Me 📞 </h3>
 		<a href="mailto:cksdud7890@naver.com">
