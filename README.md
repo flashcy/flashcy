@@ -45,6 +45,7 @@
    		<img src="https://github-readme-stats.vercel.app/api?username=flashcy"/>
 		<br/>
    		<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=cksdud7890"/>
-   		<img src="https://banner.codetree.ai/v1/banner/cksdud7890"/>
+		<br/>
+    		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashcy&layout=compact&theme=dark"/>
    	</div>
 </div>
